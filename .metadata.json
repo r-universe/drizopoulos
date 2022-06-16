@@ -1,0 +1,22 @@
+[
+  {
+    "package": "cvGEE",
+    "oncran": true
+  },
+  {
+    "package": "GLMMadaptive",
+    "oncran": true
+  },
+  {
+    "package": "JMbayes",
+    "oncran": true
+  },
+  {
+    "package": "JMbayes2",
+    "oncran": true
+  },
+  {
+    "package": "ltm",
+    "oncran": true
+  }
+]
