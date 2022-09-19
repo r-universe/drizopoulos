@@ -14,9 +14,5 @@
   {
     "package": "JMbayes2",
     "oncran": true
-  },
-  {
-    "package": "ltm",
-    "oncran": true
   }
 ]
