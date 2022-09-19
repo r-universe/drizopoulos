@@ -23,3 +23,8 @@
 	url = https://github.com/drizopoulos/jmbayes2
 	shallow = true
 	registered = true
+[submodule "ltm"]
+	path = ltm
+	url = https://github.com/drizopoulos/ltm
+	shallow = true
+	registered = true
