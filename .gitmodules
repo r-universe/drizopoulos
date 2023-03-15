@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cvGEE"]
+	path = cvGEE
+	url = https://github.com/drizopoulos/cvgee
+	shallow = true
+	registered = true
 [submodule "GLMMadaptive"]
 	path = GLMMadaptive
 	url = https://github.com/drizopoulos/glmmadaptive
@@ -13,18 +18,13 @@
 	url = https://github.com/drizopoulos/jmbayes
 	shallow = true
 	registered = true
-[submodule "ltm"]
-	path = ltm
-	url = https://github.com/drizopoulos/ltm
-	shallow = true
-	registered = true
 [submodule "JMbayes2"]
 	path = JMbayes2
 	url = https://github.com/drizopoulos/jmbayes2
 	shallow = true
 	registered = true
-[submodule "cvGEE"]
-	path = cvGEE
-	url = https://github.com/drizopoulos/cvgee
+[submodule "ltm"]
+	path = ltm
+	url = https://github.com/drizopoulos/ltm
 	shallow = true
 	registered = true
