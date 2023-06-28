@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bootStepAIC"]
 	path = bootStepAIC
 	url = https://github.com/cran/bootStepAIC
-	shallow = true
-	registered = true
 [submodule "cvGEE"]
 	path = cvGEE
 	url = https://github.com/drizopoulos/cvgee
-	shallow = true
-	registered = true
 [submodule "GLMMadaptive"]
 	path = GLMMadaptive
 	url = https://github.com/drizopoulos/glmmadaptive
-	shallow = true
-	registered = true
 [submodule "JM"]
 	path = JM
 	url = https://github.com/cran/JM
-	shallow = true
-	registered = true
 [submodule "JMbayes"]
 	path = JMbayes
 	url = https://github.com/drizopoulos/jmbayes
-	shallow = true
-	registered = true
 [submodule "JMbayes2"]
 	path = JMbayes2
 	url = https://github.com/drizopoulos/jmbayes2
-	shallow = true
-	registered = true
 [submodule "ltm"]
 	path = ltm
 	url = https://github.com/drizopoulos/ltm
-	shallow = true
-	registered = true
