@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bootStepAIC"]
-	path = bootStepAIC
-	url = https://github.com/cran/bootStepAIC
-[submodule "cvGEE"]
-	path = cvGEE
-	url = https://github.com/drizopoulos/cvgee
 [submodule "GLMMadaptive"]
 	path = GLMMadaptive
 	url = https://github.com/drizopoulos/glmmadaptive
@@ -20,6 +14,12 @@
 [submodule "JMbayes2"]
 	path = JMbayes2
 	url = https://github.com/drizopoulos/jmbayes2
+[submodule "bootStepAIC"]
+	path = bootStepAIC
+	url = https://github.com/cran/bootStepAIC
+[submodule "cvGEE"]
+	path = cvGEE
+	url = https://github.com/drizopoulos/cvgee
 [submodule "ltm"]
 	path = ltm
 	url = https://github.com/drizopoulos/ltm
